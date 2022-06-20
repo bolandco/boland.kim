@@ -42,7 +42,7 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 1.75rem;
 }
 
 .title,
@@ -54,6 +54,26 @@
   margin: 4rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
+}
+
+.date {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.location {
+  font-size: 1.15rem;
+  font-weight: 300;
+}
+
+.email {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.email:hover {
+  text-decoration: underline;
 }
 
 .code {
