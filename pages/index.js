@@ -17,11 +17,7 @@ export default function Home() {
         </h1> */}
 
         <div className={styles.description}>
-          <div className={styles.title}>Michael & Melanie</div>
-          <hr />
-          <div className={styles.date}>May 28th, 2023</div>
-          <div className={styles.location}>Hot Springs, AR</div>
-          <a href="mailto:hello@boland.kim" className={styles.email}>hello@boland.kim</a>
+          <div className={styles.title}>M & M</div>
         </div>
 
         <div className={styles.grid}>
